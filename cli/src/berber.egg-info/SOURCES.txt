@@ -1,0 +1,8 @@
+pyproject.toml
+src/berber.egg-info/PKG-INFO
+src/berber.egg-info/SOURCES.txt
+src/berber.egg-info/dependency_links.txt
+src/berber.egg-info/entry_points.txt
+src/berber.egg-info/top_level.txt
+src/tool/__init__.py
+src/tool/main.py
